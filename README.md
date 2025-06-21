@@ -14,7 +14,7 @@
 ### 🌐 Socials
 
 <p align="left">
-  <a href="https://www.instagram.com/your_instagram_username/" target="_blank">
+  <a href="https://www.instagram.com/mr_sravan_01?igsh=MXV4NnpicDc0cm5peQ==/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/sravankumar156/" target="_blank">
