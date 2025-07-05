@@ -71,12 +71,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sravankumar1432&theme=tokyonight&margin-w=15&margin-h=15" />
 </p>
 
-
----
-
-  
-### 🎖 Holopin Badges
-[![Holopin board](https://holopin.me/kotakarthik)](https://holopin.io/@kotakarthik)
 ---
 > ⚡ *"Consistency builds expertise — one commit at a time."*
 
