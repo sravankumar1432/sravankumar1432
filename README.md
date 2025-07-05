@@ -61,23 +61,17 @@
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sravankumar1432&theme=tokyonight" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sravankumar1432&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
----
 
+---
 
 ### 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sravankumar1432&theme=tokyonight&rank=SSS,SS,S,AAA,AA,A,B" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sravankumar1432&theme=tokyonight&margin-w=15&margin-h=15" />
 </p>
----
 
 
-### 🔝 Top Contributed Repo
-[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=sravankumar1432&repo=AI-ChatBot&theme=tokyonight)](https://github.com/sravankumar1432/AI-ChatBot)
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sravankumar1432&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/sravankumar1432"/>
 ---
 
   
